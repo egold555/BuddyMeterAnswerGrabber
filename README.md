@@ -14,5 +14,5 @@ for (var i = 1; i < questionArray.length; i++) {
         answerString += "\n";
     }
 }
-alert(anserString);
+alert(answerString);
 ```
